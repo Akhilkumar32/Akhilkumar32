@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.L4NOpBNisKo5cg00IImrIAHaDa?pid=ImgDet&w=1600&h=738&rs=1)]
+![MasterHead](https://th.bing.com/th/id/OIP.L4NOpBNisKo5cg00IImrIAHaDa?pid=ImgDet&w=1600&h=738&rs=1)
 <h1 align="center">Hi 👋, I'm Akhilkumar32</h1>
 <h3 align="center">web development enthusiast</h3>
 <img align="right" alt="web development" width="400" src="https://media-exp1.licdn.com/dms/image/C5616AQG06scQ0Eks7g/profile-displaybackgroundimage-shrink_350_1400/0/1638002394496?e=1661990400&v=beta&t=S6Kx0IYzRhTjrgUeaKuQSedz-Sz0Sb_hVnX1BYs7vw0">
